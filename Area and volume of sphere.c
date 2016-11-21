@@ -2,7 +2,7 @@
    Student name : Anil Paudel
    Roll: 02
    Subject:Programming Fundamental
-   Program: WAP a C program to print area and perimeter of rectangle.
+   Program: WAP a C program to print area and volume of sphere.
    Lab sheet :04
 */
 #include<stdio.h>
