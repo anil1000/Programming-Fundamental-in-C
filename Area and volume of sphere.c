@@ -15,7 +15,7 @@
   printf("Enter the radius:\n");
   scanf("%f",&r);
   area=4*PI*pow(r,2);
-  volume=4/3*PI*pow(r,3);
+  volume=(1.33)*PI*pow(r,3);
   printf("The area of sphere is:%f\n",area);
   printf("The volume of sphere is:%f",volume);
      getch ();
