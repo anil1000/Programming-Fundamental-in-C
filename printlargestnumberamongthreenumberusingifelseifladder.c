@@ -1,6 +1,6 @@
 /* Student Name:- Anil Paudel
    ROll NO.:- 04
-   Program: WAP to print largest number among three number using ternary operator.
+   Program: WAP to print largest number among three number using if else if ladder.
    Lab Sheet:11
    Date:Decmeber 9,2016
 */   
